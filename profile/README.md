@@ -1,4 +1,4 @@
-# piSwen
+# piChatBot
 
  <h3>Repositório do grupo de PII</h3>
   <p>3° Semestre dos cursos de SIN do Instituto Mauá de Técnologia</p>
