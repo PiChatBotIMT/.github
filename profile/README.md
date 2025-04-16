@@ -4,7 +4,7 @@
   <p>3° Semestre dos cursos de SIN do Instituto Mauá de Técnologia</p>
 </div>
 
-<p>Projeto Integrador Interdisciplinar, com objetivo de desenvolver uma Multi-Plataforma como o SWEN filmes, projeto realizado pelo Instituto de Engenharia, com apoio do Instituto Mauá de Tecnologia.</p>
+<p>Projeto Integrador Interdisciplinar, com objetivo de desenvolver uma Multi-Plataforma tipo ChatBot, projeto realizado pelo Instituto de Engenharia, com apoio do Instituto Mauá de Tecnologia.</p>
 
 ---
 
